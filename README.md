@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Developer Based on React and Go lifecycle 😎
+Developer Based on React and Go lifecycle 😎. sometimes i do machine-learning project
