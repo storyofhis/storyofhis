@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Developer Based on React and Go lifecycle 😎. sometimes i do machine-learning project
+
+open for project and hackathon's competition😎.
