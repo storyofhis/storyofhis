@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Developer Based on React and Go lifecycle 😎. sometimes i do machine-learning project
-
-open for project and hackathon's competition😎.
+Engineer with Typescript and Golang 😎. sometimes i do machine-learning project
