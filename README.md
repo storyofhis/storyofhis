@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+reach out me on ✨azizi.maula@gmail.com✨
+
 Engineer with Typescript and Golang 😎. sometimes i do machine-learning project
